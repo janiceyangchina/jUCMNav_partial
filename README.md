@@ -1,0 +1,2 @@
+# jUCMNav_partial
+jUCMNav is a free, Eclipse-based graphical editor and an analysis and transformation tool for the User Requirements Notation (URN). URN is intended for the elicitation, analysis, specification, and validation of requirements. This repository includes what janice has done for jUCMNav, expanding the views for goals with GRL(Goal-oriented Requirements Language), and for features with Feature Models.  Additionally, enabling concern-oriented user requirement  notation. 
