@@ -29,7 +29,7 @@ import urn.URNlink;
 /**
  * Delete an IntentionalElement (including all the ElementLink associate to it)
  * 
- * @author Jean-François Roy, pchen
+ * @author Jean-FranÃ§ois Roy, pchen, jiaying
  * 
  */
 public class DeleteIntentionalElementCommand extends CompoundCommand {
