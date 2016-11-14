@@ -61,7 +61,7 @@ import urncore.Metadata;
  * This class is a singleton responsible to manage the current strategy. It does the evaluation calculation for IntentionalElement, create the Evaluation and
  * return the value of the evaluation given an IntentionalElement for the current strategy.
  * 
- * @author Jean-Francois Roy, pchen, sghanava
+ * @author Jean-Francois Roy, pchen, sghanava, jiaying
  * 
  */
 public class EvaluationStrategyManager {
