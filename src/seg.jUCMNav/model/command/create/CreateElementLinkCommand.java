@@ -24,7 +24,7 @@ import urn.URNspec;
 /**
  * This command create the decomposition, contribution or dependency and all the linkref in the graph where the source and destination element ref are.
  * 
- * @author Jean-François Roy
+ * @author Jean-FranÃ§ois Roy, Jiaying
  * 
  */
 public class CreateElementLinkCommand extends CompoundCommand {
